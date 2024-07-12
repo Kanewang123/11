@@ -1,4 +1,4 @@
-#EXTM3U
+综合,#genre#
 #EXTINF:-1 group-title="Stripchat" tvg-logo="https://img.strpst.com/thumbs/1720757701/123746003_webp",_Math_
 https://edge-hls.doppiocdn.com/hls/123746003/master/123746003.m3u8
 #EXTINF:-1 group-title="Stripchat" tvg-logo="https://img.strpst.com/thumbs/1720757701/149253394_webp",xx_kitty
